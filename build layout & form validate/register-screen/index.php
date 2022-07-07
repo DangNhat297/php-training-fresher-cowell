@@ -11,7 +11,7 @@
   <meta name="generator" content="Hugo 0.98.0">
   <title>Signin Template · Bootstrap v5.2</title>
   <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/sign-in/">
-  <link href="../dashboard/assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../dashboard-screen/assets/css/bootstrap.min.css" rel="stylesheet">
 
   <style>
     .bd-placeholder-img {
